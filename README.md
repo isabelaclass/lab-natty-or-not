@@ -1,5 +1,4 @@
 # IAs generativas e as fontes de energia renovável ;)
-# IAs generativas e a geração de energia renovável ;)
 
 ## 📒 Descrição
 Eu gerei um texto sobre o uso de IAs generativas as fontes de energia renovável
